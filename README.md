@@ -88,7 +88,7 @@ Open `contact.html` in your browser and fill the form. On submission, it will:
 
 ##  Author
 
-**Name**: *Your Name Here*  
+**Name**: *Samiksha Saxena
 **Internship**: RISE - Cloud Computing Track  
 **Platform**: [https://www.tamizhanskills.com](https://www.tamizhanskills.com)
 
@@ -98,7 +98,5 @@ Open `contact.html` in your browser and fill the form. On submission, it will:
 
 ✅ This GitHub repository contains:
 - Source Code (HTML + Python)
-- Output Screenshots
-- Demo Screen Recording (with voice)
 - Project Documentation (this README file)
 
